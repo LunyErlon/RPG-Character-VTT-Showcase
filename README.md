@@ -26,7 +26,7 @@ Você pode visualizar a qualidade do meu código nos arquivos da pasta `/Code_Sn
 3. **CriacaoHeroi.jsx (Frontend):** Componente React principal para a interface de construção de personagens.
 
 ## 📸 Screenshots
-*(Em breve)*
+Na pasta Screenshots
 
 ---
 Developed by **Luny Erlon**
